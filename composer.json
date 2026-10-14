@@ -1,6 +1,6 @@
 {
     "name": "sabroan/psr-15",
-    "description": "A minimal PSR-15 server request handler",
+    "description": "A lightweight PSR-15 server handler",
     "license": "MIT",
     "version": "1.0.0",
     "require": {
